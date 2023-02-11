@@ -7,7 +7,7 @@
 
 `git status`
 
-`git log`
+`git log -3` ดู log 3 ครั้งสุดท้าย 
 
 `git commit -m '....'`
 
